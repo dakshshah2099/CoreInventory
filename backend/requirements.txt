@@ -1,0 +1,6 @@
+fastapi[all]
+SQLAlchemy
+PyMySQL
+python-dotenv
+passlib[bcrypt]
+python-jose[cryptography]
